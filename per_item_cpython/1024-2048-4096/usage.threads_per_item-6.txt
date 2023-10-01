@@ -1,0 +1,3 @@
+Command terminated by signal 9
+Elapsed time: 362.29 seconds
+Max memory used: 3715656KB

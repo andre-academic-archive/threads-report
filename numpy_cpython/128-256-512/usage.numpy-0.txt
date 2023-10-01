@@ -1,0 +1,2 @@
+Elapsed time: 0.94 seconds
+Max memory used: 35616KB
